@@ -1,6 +1,6 @@
 # Angular Interview Questions & Answers
 
-> Click :star:if you like the project and follow [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates. 
+> Click :star:if you like the project and follow [@danieleverest](https://www.facebook.com/profile.php?id=61556352754672) for technical updates. 
 
 ---
 
